@@ -1,1 +1,6 @@
+Collaborator changes
 the changes made in main branch
+
+Manager changes
+The changes done
+
