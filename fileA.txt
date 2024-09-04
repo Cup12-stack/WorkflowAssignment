@@ -1,1 +1,4 @@
+Collaborator
+The new features are added
+Manager
 Checking the changes
