@@ -1,1 +1,7 @@
-Checking the changes
+
+Collaborator changes1
+the changes made in main branch
+
+Manager changes1
+The changes done
+
